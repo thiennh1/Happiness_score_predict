@@ -39,8 +39,7 @@ Based on the CatBoost model, the top 3 lifestyle factors that most significantly
 3. **Mental Health Condition**: Equipping oneself with emotional first-aid skills and seeking professional help when needed is highly recommended.
 
 ## 👥 Authors
-* Duong Quoc Anh 
-* Nguyen Huu Thien 
-* Phan Thi Tuong Vi 
-* Le Thi Anh Xuan 
-*(University of Information Technology)* 
+* Duong Quoc Anh *(University of Information Technology)*  
+* Nguyen Huu Thien *(University of Information Technology)* 
+* Phan Thi Tuong Vi *(University of Information Technology)* 
+* Le Thi Anh Xuan *(University of Information Technology)* 
