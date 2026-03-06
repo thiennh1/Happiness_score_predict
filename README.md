@@ -13,7 +13,9 @@ After correlation analysis, 8 key features were selected for modeling:
 * **Smoking Habit** 
 * **Physical Activity Hours** 
 * **Sleep Hours** 
-* **Work Hours** 
+* **Work Hours**
+
+<img width="1359" height="1223" alt="image" src="https://github.com/user-attachments/assets/93056b7a-0b08-4089-854f-1f1afd191a3c" />
 
 ## 🤖 Machine Learning Models
 The project evaluates and compares the performance of 7 regression models:
