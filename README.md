@@ -43,7 +43,7 @@ Based on the CatBoost model, the top 3 lifestyle factors that most significantly
 <img width="975" height="644" alt="image" src="https://github.com/user-attachments/assets/46806f5e-a529-430c-b757-d7a696a572ec" />
 
 ## 👥 Authors
-* Duong Quoc Anh *(University of Information Technology)*  
-* Nguyen Huu Thien *(University of Information Technology)* 
-* Phan Thi Tuong Vi *(University of Information Technology)* 
-* Le Thi Anh Xuan *(University of Information Technology)* 
+* Dương Quốc Anh *(University of Information Technology)*  
+* Nguyễn Hữu Thiện *(University of Information Technology)* 
+* Phan Thị Tường Vi *(University of Information Technology)* 
+* Lê Thị Ánh Xuân *(University of Information Technology)* 
